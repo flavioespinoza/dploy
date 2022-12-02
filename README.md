@@ -1,4 +1,5 @@
 # dploy
+A deployment tool for the Akash Network.
 
 ## Microservices
 
