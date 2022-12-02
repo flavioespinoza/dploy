@@ -47,7 +47,20 @@ Install dependencies
 yarn install
 ```
 
-Start all microserves, and launch the `create-react-app` dev server.
+CD into proxy directory and build 
+
+```bash
+cd proxy
+
+yarn build
+```
+
+CD into root directory
+```bash
+cd ..
+```
+
+Start all microservices, and launch the `create-react-app` dev server.
 
 ```bash
 yarn dev
